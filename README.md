@@ -4,6 +4,12 @@ This repository contains code for a Liver Disease Prediction Model using Ensembl
 # Live Demo
 A live demo of the Liver Disease Prediction web application can be accessed at the following link: https://liver-disease-prediction-using-ensemble.streamlit.app/
 
+# Screenshot
+![Screenshot (874)](https://github.com/SaifSunny/Liver-Disease-Prediction-using-Ensemble/assets/72490093/e674f1ed-1b59-410a-9030-ada645e69803)
+![Screenshot (875)](https://github.com/SaifSunny/Liver-Disease-Prediction-using-Ensemble/assets/72490093/d64bf1d6-c4de-443b-be39-9386390f1d41)
+![Screenshot (876)](https://github.com/SaifSunny/Liver-Disease-Prediction-using-Ensemble/assets/72490093/14319ff0-ed99-4d90-8148-0224f8a63cd7)
+
+
 # How to Use the Web Application
 Access the live demo link provided above.
 
